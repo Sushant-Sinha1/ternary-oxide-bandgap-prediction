@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+mp-api  # For accessing the Materials Project API
+pymatgen  # For handling materials data
+jupyter  # For using Jupyter notebooks
